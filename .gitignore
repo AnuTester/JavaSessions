@@ -15,9 +15,13 @@ mtj.tmp/
 *.nar
 hs_err_pid*
 activityLog.log
+.DS_Store
+.classpath
+.project
+
 
 ###### Maven #####
 target/
 pom.xml.tag
 pom.xml.releaseBackup
-pon.xml.versionsBackup
+pom.xml.versionsBackup
