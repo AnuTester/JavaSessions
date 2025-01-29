@@ -20,4 +20,5 @@ activityLog.log
 target/
 pom.xml.tag
 pom.xml.releaseBackup
-pon.xml.versionsBackup
+pom.xml.versionsBackup
+
