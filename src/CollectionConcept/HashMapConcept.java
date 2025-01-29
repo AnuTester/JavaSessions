@@ -26,7 +26,7 @@ public class HashMapConcept {
 		map.put("Swapana11", 95);//3
 		map.put("Swapana212", 95);//3
 		map.put("Swapana2233", 95);//3
-		map.put("Swapana11121", 95);//3
+		map.put("Swapana111221", 95);//3
 		map.put("mary", 21);
 		map.put("mary", 32);
 
