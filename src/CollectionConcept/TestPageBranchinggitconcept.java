@@ -11,6 +11,8 @@ public class TestPageBranchinggitconcept {
 		ArrayList<String> list1 = new  ArrayList<String>();
 		for (i=0;i<9;i++) {list1.add(Integer.toString(i));}
 		System .out.print(list1);
+		String ft1 = "feature 1 " ;
+		System .out.print(ft1);
 
 	}
 
