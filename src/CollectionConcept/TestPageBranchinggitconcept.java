@@ -15,6 +15,8 @@ public class TestPageBranchinggitconcept {
 		System .out.print(ft1);
 		String ft2 = "feature 2 " ;
 		System .out.print(ft2);
+		String ft3 = "feature 3 " ;
+		System .out.print(ft3);
 	}
 
 }
