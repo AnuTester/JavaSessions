@@ -7,7 +7,7 @@ import java.util.Random;
 public class orderStatus {
 	public void orderCreated() {
 		System.out.println("order has been created Naveen ....");
-		System.out.println("order has been created again by Naveen ....")
+		System.out.println("order has been created again by Naveen and anu....")
 
 	}
 	public int ordernumberGenerated(){
