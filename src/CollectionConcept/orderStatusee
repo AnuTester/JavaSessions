@@ -11,7 +11,9 @@ public class orderStatus {
   		return r1;
 
 		}
-
+	public void OrderAddconfirm(){
+		 System.out.println("orderadd confirmation") ; 	}
+		
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

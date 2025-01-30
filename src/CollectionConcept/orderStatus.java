@@ -1,10 +1,13 @@
 package CollectionConcept;
 
+<
 import java.util.Random;
+
 
 public class orderStatus {
 	public void orderCreated() {
-		System.out.println("order has been created anu changes ....");
+		System.out.println("order has been created Naveen ....");
+
 	}
 	public int ordernumberGenerated(){
  		 Random random = new Random();
@@ -13,6 +16,12 @@ public class orderStatus {
   		return r1;
 
 		}
+
+
+	public void OrderAddconfirm(){
+		 System.out.println("orderadd confirmation") ; 	}
+		
+
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
