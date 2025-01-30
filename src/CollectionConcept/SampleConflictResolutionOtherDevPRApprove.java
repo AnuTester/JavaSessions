@@ -6,10 +6,10 @@ public class SampleConflictResolutionOtherDevPRApprove {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int  i = 9;
+		int  i = 20;
 		System .out.print(i);
 		ArrayList<String> list1 = new  ArrayList<String>();
-		for (i=0;i<9;i++) {list1.add(Integer.toString(i));}
+		for (i=0;i<19;i++) {list1.add(Integer.toString(i));}
 		System .out.print(list1);
 	}
 
