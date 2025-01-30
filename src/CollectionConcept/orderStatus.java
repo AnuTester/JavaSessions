@@ -1,12 +1,12 @@
 package CollectionConcept;
 
-<
+
 import java.util.Random;
 
 
 public class orderStatus {
 	public void orderCreated() {
-		System.out.println("order has been created Naveen ....");
+		System.out.println("order has been created Naveen anu changed again  ....");
 
 	}
 	public int ordernumberGenerated(){
