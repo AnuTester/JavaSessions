@@ -22,7 +22,10 @@ public class orderStatus {
 
 
 	public void OrderAddconfirm(){
-		 System.out.println("orderadd confirmation") ; 	}
+		 System.out.println("order add confirmation") ; 
+		 int i=2 ;
+		 
+	}
 		
 
 	
